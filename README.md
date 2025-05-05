@@ -24,9 +24,9 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 ## 🥇 Equipe
 
 * [Carlos Vinicius]()
-* [Diógenes Diniz]()
-* [Douglas Castro]()
-* [Duda Oliveira]()
+* [Diógenes Diniz](https://www.linkedin.com/in/diogenesdiniz/)
+* [Douglas Castro](https://www.linkedin.com/in/douglas-castro-84197383/)
+* [Duda Oliveira](https://www.linkedin.com/in/maria-eduarda-oliveira-lb/)
 * [Erick Simões](https://www.linkedin.com/in/ericksimoes/)
 * [Jorge Alexandre](https://www.linkedin.com/in/jorge-ara%C3%BAjo/)
 * [Karina Galdino](https://www.linkedin.com/in/karine-gomes-0820585b/)
