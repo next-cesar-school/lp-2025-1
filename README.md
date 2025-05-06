@@ -11,7 +11,7 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 | Aula                                     | Material                                                                                                     |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Aula 01 - Revisão                        | [Colab](https://colab.research.google.com/drive/1ih7fOWPllI0yAJfHWNk-HvDsFrKLZRk4?usp=sharing)               |
-| Aula 02 - Ambiente de Desenvolvimento    | |
+| Aula 02 - Ambiente de Desenvolvimento    | [Ambiente](/aula02/README.md) - [Conteúdo](/aula02/Aula02.md) |
 | Aula 03 - Funções                        | |
 | Aula 04 - Programação Funcional          | |
 | Aula 05 - Arquivos                       | |
