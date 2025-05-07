@@ -10,7 +10,7 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 
 | Aula                                     | Material                                                                                                     |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Aula 01 - Revisão                        | [Colab](https://colab.research.google.com/drive/1ih7fOWPllI0yAJfHWNk-HvDsFrKLZRk4?usp=sharing)               |
+| Aula 01 - Revisão                        | [Colab](https://colab.research.google.com/drive/1K-3feFHjesst8JBqEMneZJ383Dc4gCFL?usp=sharing)               |
 | Aula 02 - Ambiente de Desenvolvimento    | [Ambiente](/aula02/README.md) - [Conteúdo](/aula02/Aula02.md) - [Práticas](/aula02/praticas/) - [Exercícios Resolvidos](/aula02/exercicios/) |
 | Aula 03 - Funções                        | [Conteúdo](/aula03/README.md) |
 | Aula 04 - Programação Funcional          | |
@@ -31,6 +31,13 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 * [Jorge Alexandre](https://www.linkedin.com/in/jorge-ara%C3%BAjo/)
 * [Karina Galdino](https://www.linkedin.com/in/karine-gomes-0820585b/)
 * [Vitoria Ranieri](https://www.linkedin.com/in/vitoria-ranieri-b44511203/)
+
+## 🐝 Beecrowd
+
+Acesse o Beecrod da turma neste link:
+
+* Turma: [https://bcwd.me/d-14295](https://bcwd.me/d-14295)
+* Senha: `0856FBR`
 
 <!--
 ## 📚 Livros
