@@ -32,6 +32,13 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 * [Karina Galdino](https://www.linkedin.com/in/karine-gomes-0820585b/)
 * [Vitoria Ranieri](https://www.linkedin.com/in/vitoria-ranieri-b44511203/)
 
+## 🐝 Beecrowd
+
+Acesse o Beecrod da turma neste link:
+
+* Turma: [https://bcwd.me/d-14295](https://bcwd.me/d-14295)
+* Senha: `0856FBR`
+
 <!--
 ## 📚 Livros
 
