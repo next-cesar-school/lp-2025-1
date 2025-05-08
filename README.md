@@ -39,7 +39,6 @@ Acesse o Beecrod da turma neste link:
 * Turma: [https://bcwd.me/d-14295](https://bcwd.me/d-14295)
 * Senha: `0856FBR`
 
-<!--
 ## 📚 Livros
 
 Para quem gosta de estudar com livros, temos essas sugestões:
@@ -47,5 +46,3 @@ Para quem gosta de estudar com livros, temos essas sugestões:
 * Curso Intensivo de Python: uma Introdução Prática e Baseada em Projetos à Programação (3ª Edição | Eric Matthes)
 * Pense em Python: Pense Como um Cientista da Computação (3ª Edição | Allen B. Downey)
 * Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes (4ª Edição | Nilo Ney Coutinho Menezes)
-
--->
