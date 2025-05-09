@@ -30,6 +30,7 @@ Material das aulas de Lógica de Programação com Python para a turma 2024.2 do
 * [Erick Simões](https://www.linkedin.com/in/ericksimoes/)
 * [Jorge Alexandre](https://www.linkedin.com/in/jorge-ara%C3%BAjo/)
 * [Karina Galdino](https://www.linkedin.com/in/karine-gomes-0820585b/)
+* [Romulo Quidute](https://www.linkedin.com/in/romulo-quidute-filho-2404a75/)
 * [Vitoria Ranieri](https://www.linkedin.com/in/vitoria-ranieri-b44511203/)
 
 ## 🐝 Beecrowd
