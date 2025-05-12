@@ -1,0 +1,12 @@
+baleira,aquático
+tucano,aéreo
+tubarão,aquático
+coelho,terrestre
+leão,terrestre
+golfinho,aquático
+camaleão,arbóreo
+cobra,terrestre
+urso-polar,gelado
+coruja,aéreo
+canguru,terrestre
+tartaruga,aquático
