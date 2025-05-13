@@ -164,7 +164,7 @@ with open('arquivo.txt') as arquivo:
 1. Crie um arquivo que contenha, em cada linha, o nome de um animal e seu habitat, separado por vírgula, como no exemplo:
 
     ```txt
-    baleira,aquático
+    baleia,aquático
     tucano,aéreo
     tubarão,aquático
     coelho,terrestre

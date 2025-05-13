@@ -1,4 +1,4 @@
-baleira,aquático
+baleia,aquático
 tucano,aéreo
 tubarão,aquático
 coelho,terrestre
