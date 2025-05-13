@@ -14,7 +14,7 @@ Material das aulas de Lógica de Programação com Python para a turma 2025.1 do
 | Aula 02 - Ambiente de Desenvolvimento    | [Ambiente](/aula02/README.md) - [Conteúdo](/aula02/Aula02.md) - [Práticas](/aula02/praticas/) - [Exercícios Resolvidos](/aula02/exercicios/) |
 | Aula 03 - Funções                        | [Conteúdo](/aula03/README.md) - [Práticas](/aula03/praticas/) - [Exercícios Resolvidos](/aula03/exercicios/) |
 | Aula 04 - Programação Funcional          | [Conteúdo](/aula04/README.md) - [Práticas](/aula04/praticas/) - [Exercícios Resolvidos](/aula04/exercicios/) |
-| Aula 05 - Arquivos                       | [Conteúdo](/aula05/README.md) |
+| Aula 05 - Arquivos                       | [Conteúdo](/aula05/README.md) - [Práticas](/aula05/praticas/) - [Exercícios Resolvidos](/aula05/exercicios/) |
 | Aula 06 - Estruturas de Dados            | [Conteúdo](/aula06/README.md) |
 | Aula 07 - Tratamento de Exceções         | |
 | Aula 08 - Módulos                        | |
