@@ -16,7 +16,7 @@ Material das aulas de Lógica de Programação com Python para a turma 2025.1 do
 | Aula 04 - Programação Funcional          | [Conteúdo](/aula04/README.md) - [Práticas](/aula04/praticas/) - [Exercícios Resolvidos](/aula04/exercicios/) |
 | Aula 05 - Arquivos                       | [Conteúdo](/aula05/README.md) - [Práticas](/aula05/praticas/) - [Exercícios Resolvidos](/aula05/exercicios/) |
 | Aula 06 - Estruturas de Dados            | [Conteúdo](/aula06/README.md) - [Práticas](/aula06/praticas/) - [Exercícios Resolvidos](/aula06/exercicios/) |
-| Aula 07 - Tratamento de Exceções         | |
+| Aula 07 - Tratamento de Exceções         | [Conteúdo](/aula07/README.md) |
 | Aula 08 - Módulos                        | |
 | Aula 09 - Criando Seus Módulos e Pacotes | |
 | Aula 10 - Maratona de Programação        | |
