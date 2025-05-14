@@ -210,7 +210,7 @@ with open('arquivo.txt') as arquivo:
   - A média dos "Lucros / Perdas" durante todo o período
   - A média das mudanças em "Lucros / Perdas" durante todo o período
   - O maior aumento nos lucros (data e valor) durante todo o período
-  - A maior redução nas perdas (data e valor) ao longo de todo o período
+  - A maior redução nos lucros (data e valor) ao longo de todo o período
 - Por exemplo, sua análise deve ser semelhante a esta abaixo:
 
 ```txt
