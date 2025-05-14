@@ -131,7 +131,7 @@ dicionario = {'chave1': 'valor1', 'chave2': 'valor2'}
 - `dict.keys()` - Apresenta todas as chaves do dicionário
 - `dict.values()` - Apresenta todos os valores do dicionário
 - `dict.items()` - `dict_keys()` + `dict_values()`
-- `dict.get(default)` - Retorna um elemento do dicionário. Se não encontrar, retorna o valor _default_.
+- `dict.get(chave, default)` - Retorna um elemento do dicionário. Se não encontrar, retorna o valor _default_.
 
 ```python
 # Tópicos a explorar
