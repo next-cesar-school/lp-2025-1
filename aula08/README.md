@@ -286,4 +286,4 @@ Existem alguns pequenos segredos escondidos na própria linguagem que revelam o 
     - Uma pasta chamada "projeto" com dois subdiretórios: "src" e "docs";
     - Um arquivo vazio chamado "README.md" dentro de "docs".
 
-7. Use o módulo `csv` para refazer as questões do desafio `PyFinanceiro` e `PyVotação`, da aula de arquivos. Altere a extensão dos arquivos de `.txt` para `.csv`.
+7. Use o módulo `csv` para refazer as questões do desafio `PyFinanceiro` e `PyVotação`, da aula de arquivos. Use os recursos relacionados ao `DictReader` para ler o código e adapte a saída para usar o `DictWriter`.
