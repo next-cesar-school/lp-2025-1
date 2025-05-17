@@ -1,6 +1,6 @@
 votos = []
 # cria uma lista apenas com os candidados que receberam votos
-with open('aula05/exercicios/dados_elecao.csv') as dados:
+with open('aula05/exercicios/dados_eleicao.csv') as dados:
     for linha in dados.readlines()[1:]:
         candidato = linha.split(',')[2].strip()
         #print(candidato)

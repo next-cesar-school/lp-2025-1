@@ -229,7 +229,7 @@ Maior redução nos lucros: Sep-2013 ($ -2196167)
 ### 🗳️ PyVotação
 
 - Neste desafio, você tem a tarefa de ajudar uma pequena cidade rural a modernizar seu processo de contagem de votos. (Até agora, o tio Cleiton vinha contando-os um por um com confiança, mas, infelizmente, sua concentração não é o que costumava ser.)
-- Você receberá um conjunto de dados de enquete chamado [dados_eleção.csv](https://drive.google.com/file/d/13tarkZMlfvMcHnS8K49pdF-GMYOwgggg/view?usp=sharing). O conjunto de dados é composto por três colunas: `ID do eleitor`, `Município` e `Candidato`. Sua tarefa é criar um script Python que analise os votos e calcule cada uma das seguintes informações:
+- Você receberá um conjunto de dados de enquete chamado [dados_eleicao.csv](https://drive.google.com/file/d/13tarkZMlfvMcHnS8K49pdF-GMYOwgggg/view?usp=sharing). O conjunto de dados é composto por três colunas: `ID do eleitor`, `Município` e `Candidato`. Sua tarefa é criar um script Python que analise os votos e calcule cada uma das seguintes informações:
   - O número total de votos expressos
   - Uma lista completa de candidatos que receberam votos
   - A porcentagem de votos que cada candidato ganhou
