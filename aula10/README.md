@@ -8,6 +8,11 @@
 
 ------------------
 
+## 📸 NOSSA FOTO
+
+- [Aqui](/aula10/Captura%20de%20tela%202025-05-20%20220912.png)
+- [E aqui](/aula10/Captura%20de%20tela%202025-05-20%20220943.png)
+
 ## 1. Sobre a Maratona de Programação
 
 A Maratona de Programação é um evento voltado para entusiastas da programação, que desafia equipes a resolverem problemas computacionais dentro de um tempo determinado. É uma oportunidade única para testar suas habilidades, trabalhar em equipe e aprender com outros competidores.
